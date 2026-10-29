@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Naruto Uzumaki",
+    "image": "assets/portrait-0.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/7/7d/Naruto_Part_II.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Naruto%20Uzumaki"
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "image": "assets/portrait-1.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/1/13/Sasuke_Part_2.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Sasuke%20Uchiha"
+  },
+  {
+    "name": "Sakura Haruno",
+    "image": "assets/portrait-2.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/b/ba/Sakurap2.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Sakura%20Haruno"
+  },
+  {
+    "name": "Kakashi Hatake",
+    "image": "assets/portrait-3.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/2/25/Kakashi_Part_III.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Kakashi%20Hatake"
+  },
+  {
+    "name": "Itachi Uchiha",
+    "image": "assets/portrait-4.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/b/bb/Itachi.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Itachi%20Uchiha"
+  },
+  {
+    "name": "Madara Uchiha",
+    "image": "assets/portrait-5.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/f/fd/Madara.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Madara%20Uchiha"
+  },
+  {
+    "name": "Nagato",
+    "image": "assets/portrait-6.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/4/46/Nagato.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Nagato"
+  },
+  {
+    "name": "Orochimaru",
+    "image": "assets/portrait-7.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/b/be/Orochimaru_Part_III.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Orochimaru"
+  },
+  {
+    "name": "Hinata Hyūga",
+    "image": "assets/portrait-8.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Hinata%20Hy%C5%ABga"
+  },
+  {
+    "name": "Rock Lee",
+    "image": "assets/portrait-9.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/7/7d/Lee_timeskip.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Rock%20Lee"
+  },
+  {
+    "name": "Gaara",
+    "image": "assets/portrait-10.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/0/0f/Gaara_Part_II.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Gaara"
+  },
+  {
+    "name": "Minato Namikaze",
+    "image": "assets/portrait-11.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/7/71/Minato_Namikaze.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Minato%20Namikaze"
+  },
+  {
+    "name": "Obito Uchiha",
+    "image": "assets/portrait-12.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/3/3c/Obito.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Obito%20Uchiha"
+  },
+  {
+    "name": "Kaguya Ōtsutsuki",
+    "image": "assets/portrait-13.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/6/6c/Kaguya_%C5%8Ctsutsuki.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Kaguya%20%C5%8Ctsutsuki"
+  },
+  {
+    "name": "Shikamaru Nara",
+    "image": "assets/portrait-14.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/9/9a/Shikamaru_Nara.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Shikamaru%20Nara"
+  },
+  {
+    "name": "Jiraiya",
+    "image": "",
+    "error": "HTTP Error 404: Not Found",
+    "note": "API portrait URL returns HTTP 404. Original app emblem is used as a placeholder."
+  },
+  {
+    "name": "Zabuza Momochi",
+    "image": "assets/portrait-16.png",
+    "source": "https://static.wikia.nocookie.net/naruto/images/3/37/Zabuza_Momochi.png",
+    "api": "https://dattebayo-api.onrender.com/characters?name=Zabuza"
+  }
+]
